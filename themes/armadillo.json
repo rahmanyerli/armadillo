@@ -1,6 +1,5 @@
 {
-	"name": "Armadillo",
-	"$schema": "vscode://schemas/color-theme",
+	"name": "armadillo",
 	"type": "light",
 	"colors": {
 		"activityBar.background": "#F0F0F0",
