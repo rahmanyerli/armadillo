@@ -1,0 +1,46 @@
+{
+	"name": "armadillo",
+	"displayName": "Armadillo",
+	"description": "Armadillo color theme for VSCode",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.33.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Armadillo",
+				"uiTheme": "vs-dark",
+				"path": "./themes/armadillo.json"
+			}
+		]
+	},
+	"publisher": "rahmanyerli",
+	"author": {
+		"name": "Rahman Yerli"
+	},
+	"license": "MIT",
+	"repository": {
+		"type": "GitHub",
+		"url": "https://github.com/rahmanyerli/armadillo"
+	},
+	"icon": "images/armadillo.png",
+	"galleryBanner": {
+		"color": "#1E1E1E",
+		"theme": "dark"
+	},
+	"keywords": [
+		"theme",
+		"vs theme",
+		"code theme",
+		"vscode theme",
+		"dark theme",
+		"vscode, dark theme",
+		"armadillo",
+		"armadillo dark theme",
+		"armadillo dark"
+	]
+}
