@@ -1,4 +1,4 @@
-# Emu theme for VSCode
+# Armadillo theme for VSCode
 
 **Here is the best theme for your eye care!**
 
