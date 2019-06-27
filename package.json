@@ -2,7 +2,7 @@
 	"name": "armadillo",
 	"displayName": "Armadillo",
 	"description": "Here is the best theme for your eye care!",
-	"version": "1.2.0",
+	"version": "1.4.0",
 	"engines": {
 		"vscode": "^1.30.0"
 	},
